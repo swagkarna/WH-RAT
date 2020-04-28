@@ -1,6 +1,8 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/wh-hackerexploit/WH-RAT/master/img/logo.png" height="60"><br>
 
+</p>
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-hackerexploit/WH-RAT/master/img/logo.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-HackerExploit WH-RAT Advance Android penetration framework")
 
 # 🏳 WH-HackerExploit (WH - RAT) 🔞
 Usage of WH-HackerExploit Hacking Tool for attacking targets without prior mutual  consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes. 
