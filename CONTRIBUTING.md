@@ -101,11 +101,12 @@ _Revision 2.0, adopted by the [Stumptown Syndicate](http://stumptownsyndicate.or
 
 INFO
 
-Framwork version : 2.0.1
+Framwork version : 1.0.1
 
 POWER BY >> WH-HackerExploit
 
 Developer: R47
+
 code by : spynote
 
                              Apache License
