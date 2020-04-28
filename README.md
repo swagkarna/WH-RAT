@@ -9,7 +9,7 @@ Usage of WH-HackerExploit Hacking Tool for attacking targets without prior mutua
 
 # ➰ requirements PKG
 
-☆ Net framework 3.5 and 4.6.1  [ only windows system ]
+☆ Net framework 3.5 and 4.6.1 
 
 ☆ java > jdk & jre
 
