@@ -9,7 +9,7 @@ Usage of WH-HackerExploit Hacking Tool for attacking targets without prior mutua
 
 # ➰ requirements PKG
 
-☆ net framework 3.5 and 4.6.1  [ only windows system ]
+☆ Net framework 3.5 and 4.6.1  [ only windows system ]
 
 ☆ java > jdk & jre
 
@@ -29,7 +29,7 @@ Usage of WH-HackerExploit Hacking Tool for attacking targets without prior mutua
 
 1. Download Zip file https://github.com/wh-hackerexploit/WH-RAT/archive/master.zip
 
-2. Opne up Windows directory
+2. Open up Windows directory
 
 3. Now, Unzip your download file (WH-RAT-master.zip) 
 
