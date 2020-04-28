@@ -1,4 +1,4 @@
-HackerExploit-v2
+WH-HackerExploit (WH-RAT)
 
 Usage of WH-HackerExploit Hacking Tool for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes.
 requirements PKG
@@ -97,44 +97,6 @@ _Revision 2.2. Posted 4 February 2016._
 _Revision 2.1. Posted 23 June 2014._
 
 _Revision 2.0, adopted by the [Stumptown Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
-All pkg automatic download and install .
-
-And must be need Ngrok Account for authtoken .
-SYSTEM TEST
-
-    kali-linux [ Recommender System ]
-
-    parrot os
-
-HOW TO RUN / INSTALL
-
-    git clone https://github.com/wh-hackerexploit/HackerExploit-v2.git
-
-    chmod +x run
-
-    bash run
-
-then
-
-install > 1
-License key 🔑
-
-HackerExploit-v2.0.1
-
-For License key : https://www.facebook.com/wh.hackerexploit
-Blog Web
-
-Check our blog web for latest update news ..
-
-blog Web-Address : https://wh-hackerexploit-v2.blogspot.com
-
-Contact Us.
-How To Use :
-
-YOUTUBE VIDEO ⬇
-
-https://www.youtube.com/watch?v=rcU2D8eeuYE
-
 
 
 INFO
@@ -144,6 +106,7 @@ Framwork version : 2.0.1
 POWER BY >> WH-HackerExploit
 
 Developer: R47
+code by : spynote
 
                              Apache License
                        Version 2.0, January 2004
