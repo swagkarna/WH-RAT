@@ -9,9 +9,9 @@ Usage of WH-HackerExploit Hacking Tool for attacking targets without prior mutua
 
 # ➰ requirements PKG
 
-☆ Net framework 3.5 and 4.6.1 [Here]( https://www.youtube.com/watch?v=_F94hJPQ6JE&feature=youtu.be "WH-HackerExploit BOTNET Advance penetration framework ( PC ) ") 
+☆ Net framework 3.5 and 4.6.1 [Here  4.6.1 ]( https://dotnet.microsoft.com/download/dotnet-framework/net461 "Net framework 4.6.1 ")  [Here  3.5 ]( https://www.microsoft.com/en-us/download/confirmation.aspx?id=21 "Net framework 3.5 ")
 
-☆ java > jdk & jre [Here]( https://www.youtube.com/watch?v=_F94hJPQ6JE&feature=youtu.be "WH-HackerExploit BOTNET Advance penetration framework ( PC ) ")
+☆ java > jdk & jre [Here]( https://raw.githubusercontent.com/wh-r47/java/master/jre-whbot.exe " JAVA JRE")
 
 
 # 💿 SYSTEM TEST
