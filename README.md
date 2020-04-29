@@ -54,8 +54,7 @@ Usage of WH-HackerExploit Hacking Tool for attacking targets without prior mutua
 
 
  ☆ how to use in pc ⏬
- 
-🏳 [WH-HackerExploit WH-RAT Advance penetration framework VIDEO ( PC )]( https://www.youtube.com/watch?v=_F94hJPQ6JE&feature=youtu.be "WH-HackerExploit BOTNET Advance penetration framework ( PC ) ") 
+🏳 [Coming soon ](  "WH-HackerExploit Advance penetration framework ( PC ) ") 
 
 
 
